@@ -22,7 +22,6 @@ Following standard of commands have been applied on the schemas to produce resul
 <h1> Code and Resources Used </h1> 
 <b>MySQL Version:</b> 8.0 <a href="https://dev.mysql.com/downloads/workbench/"> Download MySQL</a>
 <br>
-<b>SQL Course:</b> <a href="https://www.youtube.com/watch?v=7S_tz1z_5bA">MySQL Tutorial</a><br>
 <b>Dataset:</b> <a href = "http://bit.ly/2LNdvCd" >Store Database</a>
 
 <h1>Example Query</h1>
